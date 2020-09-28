@@ -1,0 +1,2 @@
+recursive-include react_jupyter_widget_example/static *.*
+include diet-parselantro-widget.json

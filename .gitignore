@@ -1,0 +1,7 @@
+node_modules/
+lib
+es
+widget/react_jupyter_widget_example/static
+widget/js/dist
+widget/react_jupyter_widget_example.egg-info
+storybook-static
